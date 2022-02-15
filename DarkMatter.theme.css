@@ -6,7 +6,8 @@
  * @source https://github.com/DiscordStyles/DarkMatter/
 */
 
-@import url('https://DiscordStyles.github.io/DarkMatter/src/base.css');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@100;300;400;500;700&display=swap');
+@import url('https://raw.githubusercontent.com/rathodkanishk/DarkMatter/main/src/base.css');
 
 /* Variables */
 :root {
